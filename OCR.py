@@ -7,7 +7,7 @@ Created on Wed Jun 10 08:36:02 2020
 #https://towardsdatascience.com/optical-character-recognition-ocr-with-less-than-12-lines-of-code-using-python-48404218cccb
 #https://github.com/UB-Mannheim/tesseract/wiki
 
-#Importing liabraries
+#Importing liabraries/test_branch
 import numpy as np
 import cv2
 import pytesseract
